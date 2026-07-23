@@ -59,3 +59,7 @@ A | B | C
 ```
 programa inteiro
 ```
+
+## emogi
+
+:monkey:🐒
