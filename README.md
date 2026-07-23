@@ -36,7 +36,26 @@ __*negrito e italico*__ ou **_negrito e italico_**
 - [ ] checkxlist desmarcada
 - [x] check list marcada
 
+## teste imagem
 
 <img width="75" height="32" alt="teste imagem" src="https://github.com/user-attachments/assets/7a7e8ca8-324a-4498-bec3-59b7ba82e19a" />
 
+## teste link
+
 [teste de link](https://gustavoguanabara.github.io)
+
+## teste tabela
+
+a | b | c
+---|---|---
+A | B | C
+A | B | C
+A | B | C
+
+## codigo
+
+`printf()` linguagem C
+
+```
+programa inteiro
+```
